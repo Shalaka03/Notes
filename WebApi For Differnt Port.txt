@@ -1,0 +1,34 @@
+http://localhost:52514 - web api
+
+https://localhost:52514
+
+1)protocol
+2)domain
+3)port
+
+origin
+
+
+cross origin resource sharing need to enable
+
+
+1)using jsonp - json with padding
+
+{
+"name":"mahesh"
+}
+
+callback({
+"name":"mahesh"
+})
+http:/  from postman/localhost:52514/api/student?callback=mahesh
+2)enabling the cors
+
+
+
+
+
+
+http://localhost:52514 - web api
+
+http://localhost:50675/ -

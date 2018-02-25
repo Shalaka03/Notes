@@ -1,0 +1,65 @@
+api => repository =>database
+
+priyank - api - sql server
+
+--amit - api - oracle
+
+--shalakha - api - elastic search
+
+
+istudent = studentrepisturi
+studentrepository obj = new studentrepos
+
+
+
+papa -
+
+
+bete - papa
+
+ninject - lossely couple application
+          create boject behalf of user
+
+
+
+
+
+
+
+
+
+
+
+delegate - function pointer
+
+
+public bool condition(){
+ return marks>90;
+}
+
+class student{
+
+public void calculategrade(delegate del){
+if(marks>90)
+
+}
+
+
+linq
+
+}
+
+fap
+
+30 - 
+
+
+
+
+
+
+
+
+
+
+

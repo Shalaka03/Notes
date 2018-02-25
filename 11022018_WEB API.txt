@@ -1,0 +1,86 @@
+mvc - db
+
+mvc - webapi - repository - db
+https://www.getpostman.com/
+
+webapi -repository
+
+solid
+priciple
+
+dp - 
+
+
+web-api = 
+
+Web Api - it is a platform to build http services- 
+services- Use to build diffrent fun.
+eg - send email 
+
+
+web service - understand only one laungagae.i.e-xml
+it doesnt support differ lang
+xml
+
+clients -
+
+mobile
+desktop -json
+web
+browser
+
+
+
+wcf -complex config.
+REST Services Use....
+Set End Points And Metadata
+
+2)xml,json,bson
+
+xml - localhost8080
+json - localhost8081
+
+
+
+web api - 
+
+free
+all languages - xml/json/bson
+content negotiation - 
+ 
+if the req data is json format you get in a json format
+if the req data is XML format you get in a XML format
+
+based on clients requiement webapi ll send the data
+
+
+http - 
+
+
+request headers - 
+accept - application/json [reciver]
+content type [sender]
+params
+
+formatters-
+
+app/json- .c#
+
+mediatypeformatters
+jsonformatter
+xmlformatter
+
+ninject - 
+mvc
+
+cors - 
+
+sunday - mvc
+
+
+
+
+
+
+
+

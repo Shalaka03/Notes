@@ -1,0 +1,140 @@
+
+
+code first --
+
+
+single resp principle-
+dry - dont repeat you
+
+s
+
+
+oli
+
+
+d - important  dependancy inversion principle   
+
+dependancy injection - niject,unity
+
+100rs
+
+80000
+
+
+
+
+V-
+C-
+0
+
+1)viewbag
+2)viewdata - in between one request 
+3)tempdata --- 
+4)strongly type view - very imp
+5)dynamic
+
+
+
+2 view engines
+
+razor
+aspx - -
+
+
+user control - 
+
+
+ascx
+
+aspx
+
+
+.net core  - mvc6 - asp.net vnext
+
+
+
+
+session['name']
+
+
+
+typecasting -
+
+datatypes
+
+built in types- int value types
+
+user defined  - class delegates string  interface - reference type
+
+boxing
+
+unboxing
+
+
+
+
+using view
+
+
+
+
+using viewdata
+
+
+
+
+
+
+performance overhead
+
+
+
+
+viewbag.employee = employee
+
+
+employee  = 
+
+id 1
+name m
+address t
+
+
+
+viewmodel studentaddress = student,adress
+4,4
+
+
+student address qualit=fication
+
+
+x = wpf,sql,ef,linq,
+
+
+mvc = mvc - 4,2,2.6 , 6.8
+
+
+mvc - jquery,mvc,,c#,sql server,ef,web api,angular2
+
+
+
+
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
