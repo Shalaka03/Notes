@@ -1,0 +1,34 @@
+A - OnAuthorization()
+A - 
+R - 
+E - OnException
+
+
+api/student get -
+
+
+ValidateUser(userName,password)
+
+create token using guid
+
+generate respose - 
+
+status
+token
+
+next request i need to send token
+
+validateToken(string token)
+
+
+UserDetails
+-username - ram
+-password - ram
+-token -123
+
+
+api/login/login/ram/ram
+
+
+
+
