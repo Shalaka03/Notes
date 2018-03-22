@@ -1,0 +1,48 @@
+filters -
+
+
+
+http://localhost:52514/api/student
+
+jwt token
+
+basic token
+
+
+logincontroller
+
+login(username,password)
+validateCredentials - 
+
+
+
+database tables
+
+UserDetails
+
+id
+UserName mahesh
+Password mahesh
+token 1234
+123
+
+
+validatetoken
+
+
+Authorize - IAuthorization - OnAuthorize
+Action - IAction -
+Result - IResult
+Exception - IException
+
+
+
+
+
+
+
+
+
+
+
+
